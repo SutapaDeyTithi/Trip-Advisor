@@ -1,0 +1,3 @@
+new -> welcome -> newCity -> hotel / restuarent
+edit:
+login -> login_result -> newCity.....
