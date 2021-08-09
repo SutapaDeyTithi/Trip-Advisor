@@ -1,3 +1,2 @@
 # Trip-Advisor
-Database project
-PostgreSQL, PHP
+Database project: PostgreSQL, PHP
